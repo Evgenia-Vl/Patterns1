@@ -14,7 +14,7 @@ import java.util.Locale;
 
 import static com.codeborne.selenide.Selenide.*;
 
-class DeliveryTest {
+class gitDeliveryTest {
     private static Faker faker;
 
     @BeforeAll
